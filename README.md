@@ -1,16 +1,29 @@
-# slack_githup_app
 
-A new Flutter project.
 
-## Getting Started
+# Slack GitHub App
 
-This project is a starting point for a Flutter application.
+This application displays your Slack name and profile picture, and allows you to open your GitHub profile in a WebView.
 
-A few resources to get you started if this is your first Flutter project:
+## Setup
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone the GitHub repository.
+2. Install the dependencies with `flutter pub get`.
+3. Run the application with `flutter run`.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Assumptions
+
+* You have a Slack account.
+* You have a GitHub account.
+
+## Other Pertinent Details
+
+* The application uses the `webview_flutter` package to embed a WebView in the Flutter application.
+
+
+## Author
+
+Golden Iroakaziy
+
+## License
+
+This project is licensed under the MIT License.

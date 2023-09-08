@@ -24,6 +24,4 @@ This application displays your Slack name and profile picture, and allows you to
 
 Golden Iroakaziy
 
-## License
 
-This project is licensed under the MIT License.
